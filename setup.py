@@ -13,6 +13,7 @@ requirements = [
     'scipy',            # For trimesh, annoyingly
     'six',              # Python 2/3 compatability
     'trimesh',          # Mesh geometry loading/creation/saving
+    'wheel',
 ]
 
 dev_requirements = [
